@@ -12,4 +12,4 @@ Ref. :
 
 # UI
 
-![image](https://user-images.githubusercontent.com/58788722/126196645-7da4d510-768d-4b35-894d-ee0e0671108e.png)
+![image](https://user-images.githubusercontent.com/58788722/126197101-42d94b74-f130-40c4-b90d-762b35f676f6.png)
