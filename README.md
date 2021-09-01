@@ -1,5 +1,13 @@
-# weather-app
-weather app is build by kotlin &amp; openweather plateform
+# Weather-app
+
+Weather app is used to show the weather information of Pune location.
+Along with the temperature the weather app displays data like
+- Sunshine timing
+- Sunset timing
+- Humidity
+- Pressure
+- Speed of the wind
+
 
 Ref. :
 
